@@ -1,6 +1,8 @@
 # Guitar 3D Visualizer - Report
 
 ## Descrizione generale
+[Link al progetto](https://cocuma22.github.io/Product-visualizer/).
+
 Per la realizzazione del *Product Visualizer*, ho deciso di mantenere un layout semplice contenente solo l'essenziale, mi sono quindi ispirata a questa [demo 3D](https://threekit.com/3d-product-demos/mens-polo-shirt-clothing/).
 
 Il modello scelto è una [chitarra elettrica](https://sketchfab.com/models/7ab6e59ba93b46bd8afa981fef92f114) in cui è possibile modificare il tipo di legno del corpo e il metallo di alcune sue componenti.
